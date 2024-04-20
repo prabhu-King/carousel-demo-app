@@ -1,0 +1,13 @@
+.corp-heading{
+    color: coral;
+    font-weight: normal;
+}
+.link-nav{
+    color:darkred;
+    font-size: large;
+    font-family: 'Roboto',sans-serif;
+}
+.link-nav:hover{
+    color:deeppink;
+    font-weight: bold;
+}
