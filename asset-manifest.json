@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/github.io/carousel-demo-app/static/css/main.f302bbb1.css",
+    "main.js": "/github.io/carousel-demo-app/static/js/main.19d90347.js",
+    "static/js/453.77fea8a6.chunk.js": "/github.io/carousel-demo-app/static/js/453.77fea8a6.chunk.js",
+    "static/media/1093092-nature-background-hd-1920x1080-pictures.jpg": "/github.io/carousel-demo-app/static/media/1093092-nature-background-hd-1920x1080-pictures.2afa3b5a9c3fd79e6472.jpg",
+    "static/media/1080p-wallpaper-image-hd-desktop-wallpapers-cool-images-hd.jpg": "/github.io/carousel-demo-app/static/media/1080p-wallpaper-image-hd-desktop-wallpapers-cool-images-hd.1f015630f74107945b9e.jpg",
+    "static/media/jpg": "/github.io/carousel-demo-app/static/media/caa2654e79e2dc88c6a3c18e1a353452.aa849585c056263dc910.jpg",
+    "static/media/images (7).jpeg": "/github.io/carousel-demo-app/static/media/images (7).96dfb6417fd0e6d7fce5.jpeg",
+    "static/media/desktop-wallpaper-nature-background-super-high-resolution-nature.jpg": "/github.io/carousel-demo-app/static/media/desktop-wallpaper-nature-background-super-high-resolution-nature.5055b639082066b7ba11.jpg",
+    "static/media/images (6)_1595329807198.jpeg": "/github.io/carousel-demo-app/static/media/images (6)_1595329807198.1cae12c54d304e767313.jpeg",
+    "static/media/images (8).jpeg": "/github.io/carousel-demo-app/static/media/images (8).0b71d7c85b3184e8964b.jpeg",
+    "static/media/images[1][12] (2).jpg": "/github.io/carousel-demo-app/static/media/images[1][12] (2).a6d5fffb958eb56cb81d.jpg",
+    "static/media/images(10)_1559904728930.jpg": "/github.io/carousel-demo-app/static/media/images(10)_1559904728930.9ba5ee0b8864a47ee1e9.jpg",
+    "static/media/01 (103).jpg": "/github.io/carousel-demo-app/static/media/01 (103).0e27ed8157b571194731.jpg",
+    "static/media/images[1][10] (2).jpg": "/github.io/carousel-demo-app/static/media/images[1][10] (2).9c446084e74ec5af5c44.jpg",
+    "static/media/images(4)_1559904727866.jpg": "/github.io/carousel-demo-app/static/media/images(4)_1559904727866.587b30ca2a915279962e.jpg",
+    "static/media/images(31).jpg": "/github.io/carousel-demo-app/static/media/images(31).0754d31a67b5585f911f.jpg",
+    "static/media/images[1][11] (2).jpg": "/github.io/carousel-demo-app/static/media/images[1][11] (2).0a9f2d447e9d2c97559f.jpg",
+    "index.html": "/github.io/carousel-demo-app/index.html",
+    "main.f302bbb1.css.map": "/github.io/carousel-demo-app/static/css/main.f302bbb1.css.map",
+    "main.19d90347.js.map": "/github.io/carousel-demo-app/static/js/main.19d90347.js.map",
+    "453.77fea8a6.chunk.js.map": "/github.io/carousel-demo-app/static/js/453.77fea8a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f302bbb1.css",
+    "static/js/main.19d90347.js"
+  ]
+}
